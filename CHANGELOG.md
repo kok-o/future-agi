@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.40.1](https://github.com/future-agi/future-agi/compare/v1.40.0...v1.40.1) (2026-09-23)
+
+
+### Bug Fixes
+
+* **release:** bump US Property Catalog image tags ([e521968](https://github.com/future-agi/future-agi/commit/e52196801db5be7791d09e460a9b520aa9f39634))
+* **release:** include US Property Catalog image tags in release bumps ([516624d](https://github.com/future-agi/future-agi/commit/516624d05e86141222e03c1f625299fc94a64f30))
+
 ## [1.40.0](https://github.com/future-agi/future-agi/compare/v1.39.0...v1.40.0) (2026-09-23)
 
 
